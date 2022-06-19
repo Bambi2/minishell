@@ -1,8 +1,8 @@
 # minishell
 This project is about creating a simple shell
 ## Description
-In this project I tried to create a copy of **bash** shell.\
-Minishell can run binaries send signals to them.\
+In this project I tried to recreate a copy of **bash** shell.\
+Minishell can run binaries and send signals to them.\
 It has redirections, pipes, some built-ins and environment variables. 
 ## Example of usage
 
